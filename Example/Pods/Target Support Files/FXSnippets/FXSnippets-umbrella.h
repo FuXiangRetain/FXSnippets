@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NSString+FXString.h"
 
 FOUNDATION_EXPORT double FXSnippetsVersionNumber;
 FOUNDATION_EXPORT const unsigned char FXSnippetsVersionString[];

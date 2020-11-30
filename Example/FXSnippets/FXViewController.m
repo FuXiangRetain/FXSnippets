@@ -7,6 +7,7 @@
 //
 
 #import "FXViewController.h"
+#import <NSString+FXString.h>
 
 @interface FXViewController ()
 
@@ -17,6 +18,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor redColor];
+    NSString *string = @"hello word";
+    NSLog(@"%@",[string printSelf]);
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
