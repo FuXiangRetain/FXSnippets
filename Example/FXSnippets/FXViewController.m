@@ -19,7 +19,7 @@
 {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
-    NSString *string = @"hello word";
+    NSString *string = @"hello word!";
     NSLog(@"%@",[string printSelf]);
 	// Do any additional setup after loading the view, typically from a nib.
 }
