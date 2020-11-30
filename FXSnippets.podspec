@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.3'
 
-  s.source_files = 'FXSnippets/Classes/**/*'
+  s.source_files = 'FXSnippets/Classes/*'
   
   # s.resource_bundles = {
   #   'FXSnippets' => ['FXSnippets/Assets/*.png']
