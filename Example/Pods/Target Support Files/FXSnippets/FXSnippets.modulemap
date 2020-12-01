@@ -1,0 +1,6 @@
+framework module FXSnippets {
+  umbrella header "FXSnippets-umbrella.h"
+
+  export *
+  module * { export * }
+}

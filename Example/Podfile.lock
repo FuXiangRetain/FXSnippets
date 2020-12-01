@@ -1,0 +1,16 @@
+PODS:
+  - FXSnippets (0.1.0)
+
+DEPENDENCIES:
+  - FXSnippets (from `../`)
+
+EXTERNAL SOURCES:
+  FXSnippets:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FXSnippets: c80538300aa619469b32c1b84103357bcd0025bb
+
+PODFILE CHECKSUM: d5b92b734035c6aed414e845b46730747fbf4d14
+
+COCOAPODS: 1.10.0
